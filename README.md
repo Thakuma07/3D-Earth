@@ -2,7 +2,7 @@
 
 A stunning, high-performance hero section featuring a realistic 3D planet rendered with WebGL/Three.js, enhanced with custom shaders, GSAP animations, and ultra-smooth scrolling.
 
-![Project Preview](public/preview.png) *(Note: Add a real preview image/gif to public folder for better visibility)*
+<img width="1920" height="1080" alt="Screenshot (246)" src="https://github.com/user-attachments/assets/f1e1e29d-7d75-48e8-86bc-41586df84eb9" />
 
 ## ✨ Features
 
